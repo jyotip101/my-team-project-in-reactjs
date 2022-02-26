@@ -2,7 +2,7 @@
    
 <!-- DEMO -->
  
-### Demo:-   [Tour Cards](https://jyotip101.github.io/tour-cards-in-reactjs/)
+### Demo:-   [Tour Cards](https://thejyotipatel.github.io/tour-cards-in-reactjs/)
 
 <!-- TABLE OF CONTENTS -->
 
